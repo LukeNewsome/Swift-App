@@ -6,7 +6,7 @@
 //  Created by Luke Newsome on 1/21/19.
 //  Copyright © 2019 ZappyCode. All rights reserved.😀
 //Great Im Coding Please Git Please!
-var tapcount = 0
+
 import UIKit
 
 class ViewController: UIViewController {
